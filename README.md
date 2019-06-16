@@ -1,4 +1,4 @@
-# Spring Boot OAuth2 SSO WITH facebook
+# Spring Boot OAuth2 SSO with facebook
 Minimal application that uses Facebook for authentication and authorization.
 
 ## Details
