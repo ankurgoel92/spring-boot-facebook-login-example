@@ -1,13 +1,13 @@
-package com.ag.springbootfacebookloginexample;
+package com.ag.fblogin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootFacebookLoginExampleApplication {
+public class FbLoginApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootFacebookLoginExampleApplication.class, args);
+		SpringApplication.run(FbLoginApplication.class, args);
 	}
 
 }

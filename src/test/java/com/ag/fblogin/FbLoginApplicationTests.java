@@ -1,4 +1,4 @@
-package com.ag.springbootfacebookloginexample;
+package com.ag.fblogin;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringBootFacebookLoginExampleApplicationTests {
+public class FbLoginApplicationTests {
 
 	@Test
 	public void contextLoads() {
